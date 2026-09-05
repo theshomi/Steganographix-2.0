@@ -1,4 +1,4 @@
-# Steganographix 2.0
+# Steganographix
 
 Офлайн PWA для шифрования и скрытия текста/небольших файлов в PNG/BMP/WebP через RGB LSB.
 
